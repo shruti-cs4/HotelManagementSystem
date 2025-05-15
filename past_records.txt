@@ -1,0 +1,26 @@
+Customer Name: s
+Customer Contact: 123
+
+Selected Items:
+Burger x 1 - ₹100
+Pizza x 1 - ₹200
+Pasta x 1 - ₹150
+Sandwich x 1 - ₹80
+Salad x 1 - ₹90
+
+Total Price: ₹620
+GST (18%): ₹111.6
+Grand Total: ₹731.6
+Customer Name: srushti
+Customer Contact: 123456789
+
+Selected Items:
+Burger x 2 - ₹200
+Pizza x 2 - ₹400
+Pasta x 2 - ₹300
+Sandwich x 1 - ₹80
+Salad x 1 - ₹90
+
+Total Price: ₹1070
+GST (18%): ₹192.6
+Grand Total: ₹1262.6
